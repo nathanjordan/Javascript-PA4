@@ -159,7 +159,7 @@ $(document).ready( function() {
 				$("canvas").rotateCanvas({
 					angle: 0,
 					x: centerX, y: centerY
-					});
+					})
 				
 				$("canvas").restoreCanvas();
 				

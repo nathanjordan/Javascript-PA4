@@ -31,7 +31,7 @@
 <li>Current Mode: <span id="modeSpan">line</span></li>
 <li>Other:</li>
 <li><button id="clearCanvas">Clear</button></li>
-<li><button id="rotateCanvas">Rotate Mode</button></li>
+<li><button id="rotateCanvas">Rotate</button></li>
 </ul>
 <canvas id="myCanvas"></canvas>
 
